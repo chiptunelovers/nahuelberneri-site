@@ -99,9 +99,9 @@ function buildPage({ title, tag, image, youtube, body }) {
     <h1>${ht}</h1>
   </section>
 
-  <section class="work-image">
+${image ? `  <section class="work-image">
     <img src="../images/${image}" alt="${ht}" loading="eager">
-  </section>
+  </section>` : ''}
 
   <section class="work-body">
     <p>${escape(body)}</p>
