@@ -1,6 +1,8 @@
 .claude/
 .wrangler/
 .github/
+.git/
+.gitignore
 wrangler.toml
 README.md
 download_images.sh
