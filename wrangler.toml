@@ -1,0 +1,17 @@
+name = "ancient-bar-2556"
+main = "_worker.js"
+compatibility_date = "2026-04-29"
+
+[assets]
+directory = "."
+html_handling = "auto-trailing-slash"
+not_found_handling = "none"
+binding = "ASSETS"
+
+[[routes]]
+pattern = "nahuelberneri.com"
+custom_domain = true
+
+[[routes]]
+pattern = "www.nahuelberneri.com"
+custom_domain = true

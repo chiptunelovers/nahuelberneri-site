@@ -1,0 +1,14 @@
+.claude/
+.wrangler/
+.github/
+wrangler.toml
+README.md
+download_images.sh
+*.sh
+memory/
+_worker.js
+build.js
+package.json
+package-lock.json
+node_modules/
+content/

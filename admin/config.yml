@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: chiptunelovers/nahuelberneri-site
+  branch: main
+  base_url: https://nahuelberneri.com
+  auth_endpoint: /api/auth
+
+media_folder: images
+public_folder: /images
+
+collections:
+  - name: works
+    label: Works
+    label_singular: Work
+    folder: content/works
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Category, name: tag, widget: string, hint: "e.g. Mastering, Film score, Album, Single, Production" }
+      - { label: Image filename, name: image, widget: string, hint: "e.g. sedal.jpeg — must be a file already in the images/ folder" }
+      - { label: YouTube URL, name: youtube, widget: string, required: false, hint: "Full YouTube URL or leave blank" }
+      - { label: Description, name: body, widget: text }
