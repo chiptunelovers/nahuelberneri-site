@@ -1,7 +1,7 @@
 ---
-title: "Pino Europeo — Chango Spasiuk & Chancha Via Circuito"
-tag: "Album"
-image: "pinoeuropeo.jpeg"
-youtube: ""
+title: Pino Europeo — Chango Spasiuk & Chancha Via Circuito
+tag: Album
+image: ""
+youtube: https://youtu.be/AxK9Hll5Iyk?si=gO0BuGoDSuStEzmx&t=49
 ---
-I was lucky enough to be able to connect two greatest exponents of Argentine music. Chango Spasiuk and Pedro Canale also known as Chancha Via Circuito. I was able to enjoy moments with them throughout a year in which we were able to see the birth of Pino Europeo, one of the most representative albums of the Folktronic scene.
+Few moments in my career have felt as meaningful as connecting two towering figures of Argentine music — Chango Spasiuk and Pedro Canale, the artist behind Chancha Vía Circuito. Over the course of a year spent in their orbit, I had the privilege of witnessing the making of Pino Europeo, an album that would become one of the most iconic works in the Folktronic movement.
