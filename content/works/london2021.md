@@ -1,7 +1,7 @@
 ---
-title: "My productions in London 2021"
-tag: "Production"
-image: "analogmixer.jpeg"
-youtube: ""
+title: Pop & Melodic House — My finest London cuts.
+tag: Production
+image: ""
+youtube: https://www.youtube.com/watch?v=16E47epK8F4
 ---
-I worked in many productions last 2021, these are some of the best ones. Lots of London sound, melodic house, and afrobeat vibes too. 14 tracks of the best I done in 2021.
+Pop with depth. House with melody. Vocals that hit. This is a collection of my favourite productions for solo singers — the ones where everything clicked, the artist delivered, and the track became something bigger than either of us expected. All made here in London.
