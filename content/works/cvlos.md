@@ -1,7 +1,7 @@
 ---
-title: "Los Cvlos — single recording, mix & master"
-tag: "Single"
-image: "cvlos.jpg"
-youtube: ""
+title: Los Cvlos — Recording, mix & mastering, but live.
+tag: Single
+image: ""
+youtube: https://www.youtube.com/watch?v=8dc3p_7mdZg
 ---
-Recording, mixing and mastering for Los Cvlos single.
+Not every band with explosive energy knows what to do with it. Los Cvlos do. From the first session it was clear this was something different — a genuine symbiosis between their raw power and a shared instinct for direction. They came looking for a music production. I gave them a weapon. Recording, mixing, and mastering.
