@@ -4,4 +4,4 @@ tag: "Single"
 image: "francisca.jpeg"
 youtube: ""
 ---
-Francisca is a rising producer and singer throughout the Latin American region. Moments before the great explosion of her career, we were able to create that moment that became a single, recorded, mixed and mastered in my studio in Buenos Aires.
+Francisca y Los Exploradores had already built a devoted following across Latin America by the time this single was made — indie pop with genuine melodic instinct and something to say. We caught this one at exactly the right moment, in my Buenos Aires studio. Recording, mixing, and mastering.

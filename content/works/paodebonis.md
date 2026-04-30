@@ -1,7 +1,7 @@
 ---
-title: "Pop music — full artist production with Pao de Bonis"
+title: "Pao de Bonis — full artist production"
 tag: "Production"
 image: "paodebonis.jpeg"
 youtube: ""
 ---
-This pop singer came to a music production seminar I ran in my studio, and she knew we could make some great tracks together. These are eight of the songs we made. I feel very proud of the vibes in these.
+Pao de Bonis walked into a production seminar I ran and we both knew immediately there was something there. Eight songs later, I was right. Full production from first demo to final master — one of those collaborations where the trust was mutual from day one.

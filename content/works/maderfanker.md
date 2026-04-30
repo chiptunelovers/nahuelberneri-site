@@ -4,4 +4,4 @@ tag: "Album"
 image: "maderfanker.jpeg"
 youtube: ""
 ---
-I produced these five songs for Maderfanker in 2018. They came to my studio wanting to record a single, they felt so comfortable that they decided to record four more.
+Maderfanker came to my studio for a single. By the end of the sessions, they had five tracks. That's the kind of chemistry that makes this work rewarding — when an artist feels at home and the ideas keep coming. Full production, from first take to final master.

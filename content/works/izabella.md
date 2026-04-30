@@ -4,4 +4,4 @@ tag: "Album"
 image: "izabella.jpg"
 youtube: ""
 ---
-Several months in the studio several days a week unleashed this album that I was lucky enough to produce for Izabella. An album from 2013 with sounds even more than current.
+Several months of intensive studio work, multiple sessions a week — this ten-track album for Izabella is one I produced in 2013 and still return to. The kind of record you lose yourself in making, and come out the other side surprised by what you built together. Full production.

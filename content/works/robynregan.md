@@ -4,4 +4,4 @@ tag: Mix · Master
 image: ""
 youtube: https://www.youtube.com/watch?v=hFM2gpKRVkk
 ---
-I have been working for Darren Martyn Studios in London, and this work came to me from Darren, the company's director. I developed his ideas about the track and doing the mix and the mastering. Such a great song!
+A collaboration with Darren Martyn Studios, London. Darren brought me in to develop his production ideas for this Robyn Regan track — programming, mix, and mastering. One of those London sessions that reinforces why working across disciplines produces the best results.

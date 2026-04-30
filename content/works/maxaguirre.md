@@ -1,7 +1,7 @@
 ---
-title: "Modern Tango — full album recording & mastering"
+title: "Máximo Aguirre — Carlos Gardel Award-nominated tango album"
 tag: "Album"
 image: "maxaguirre.jpeg"
 youtube: ""
 ---
-This tango singer started coming to the studio as a hobby, to do a little bit of something he loves but without pretension. We recorded many songs together, but the ones that made up his first album were the ones we liked the most. This album achieved an impressive goal by being nominated for the best tango album in Argentina — the Carlos Gardel Awards.
+Máximo Aguirre first came to the studio for the love of it — no agenda, no deadline, just a singer and his songs. What started as a personal project became his debut album. It went on to receive a nomination at the Carlos Gardel Awards — Argentina's equivalent of the Grammys — for Best Tango Album. Recording, mixing, and mastering.

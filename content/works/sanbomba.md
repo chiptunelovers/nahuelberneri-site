@@ -4,4 +4,4 @@ tag: "Single"
 image: "sanbomba.jpeg"
 youtube: "https://www.youtube.com/watch?v=mGyW6QZUkIw"
 ---
-Eleven musicians in a recording room and the joy of being able to carry out this work, very happy with the results.
+Eleven musicians in a single recording room — the kind of session that reminds you why live recording never goes out of style. Recording, mixing, and mastering for Orkesta San Bomba.

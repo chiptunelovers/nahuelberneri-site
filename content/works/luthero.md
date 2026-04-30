@@ -1,7 +1,7 @@
 ---
-title: "Groove metal — eleven track album production"
+title: "Luthero — eleven track album, full production"
 tag: "Album"
 image: "luthero.jpeg"
 youtube: "https://www.youtube.com/watch?v=ZolGph_xYSs"
 ---
-Production, recording, mixing and mastering of the eleven-track album for Luthero. We started recording the EP with just drafts and ideas, and the result was this fantastic album with solid songs and a perfectly recreated sound style for this genre.
+Full production, recording, mixing, and mastering for Luthero's eleven-track groove metal album. We started with a handful of drafts — enough for an EP. The sessions had a momentum of their own, and we ended up with a full record: eleven tracks with a sound that hits exactly as hard as the songs deserve.
