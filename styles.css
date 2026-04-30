@@ -663,6 +663,10 @@ main { position: relative; z-index: 2; }
   background: var(--ink-3);
   border: 1px solid var(--line);
 }
+.work-video-spotify {
+  aspect-ratio: unset;
+  height: 352px;
+}
 .work-video-inner iframe {
   position: absolute;
   inset: 0;

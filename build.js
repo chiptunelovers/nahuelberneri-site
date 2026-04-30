@@ -22,9 +22,18 @@ function escape(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-function ytEmbed(url) {
+function mediaEmbed(url) {
   if (!url) return '';
-  const vid = url.split('v=')[1]?.split('&')[0];
+  if (url.includes('spotify.com')) {
+    const embedUrl = url.replace('open.spotify.com/', 'open.spotify.com/embed/');
+    return `
+  <section class="work-video">
+    <div class="work-video-inner work-video-spotify">
+      <iframe src="${embedUrl}" title="Spotify player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+  </section>`;
+  }
+  const vid = url.split('v=')[1]?.split('&')[0] || url.split('youtu.be/')[1]?.split('?')[0];
   if (!vid) return '';
   return `
   <section class="work-video">
@@ -106,7 +115,7 @@ ${image ? `  <section class="work-image">
   <section class="work-body">
     <p>${escape(body)}</p>
   </section>
-${ytEmbed(youtube)}
+${mediaEmbed(youtube)}
   <section class="endcap">
     <div class="endcap-inner">
       <p class="eyebrow"><span class="eyebrow-line"></span>Let's work together</p>
