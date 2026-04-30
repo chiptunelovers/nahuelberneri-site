@@ -667,6 +667,10 @@ main { position: relative; z-index: 2; }
   aspect-ratio: unset;
   height: 352px;
 }
+.work-video-soundcloud {
+  aspect-ratio: unset;
+  height: 300px;
+}
 .work-video-inner iframe {
   position: absolute;
   inset: 0;

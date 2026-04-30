@@ -33,6 +33,15 @@ function mediaEmbed(url) {
     </div>
   </section>`;
   }
+  if (url.includes('soundcloud.com')) {
+    const scUrl = encodeURIComponent(url);
+    return `
+  <section class="work-video">
+    <div class="work-video-inner work-video-soundcloud">
+      <iframe src="https://w.soundcloud.com/player/?url=${scUrl}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=true" title="SoundCloud player" frameborder="0" allow="autoplay" loading="lazy"></iframe>
+    </div>
+  </section>`;
+  }
   const vid = url.split('v=')[1]?.split('&')[0] || url.split('youtu.be/')[1]?.split('?')[0];
   if (!vid) return '';
   return `
