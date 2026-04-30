@@ -4,4 +4,4 @@ tag: Mix · Master
 image: ""
 youtube: https://www.youtube.com/watch?v=2kytwtu2yGI
 ---
-I have been working for Darren Martyn Studios in London, and this work came to me by Darren, the director of the company. I developed his ideas about the track and doing the mix and the mastering as well. Such a great song!
+A collaboration with Darren Martyn Studios, London. Darren brought me in to develop his production ideas, with mix and mastering duties rounding out my contribution. A beautiful track from start to finish.
