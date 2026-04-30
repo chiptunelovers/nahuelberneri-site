@@ -1,5 +1,5 @@
 ---
-title: Los Cvlos — Recording, mix & mastering, but live.
+title: Los Cvlos — Recorded live. Built to detonate.
 tag: Single
 image: ""
 youtube: https://www.youtube.com/watch?v=8dc3p_7mdZg
