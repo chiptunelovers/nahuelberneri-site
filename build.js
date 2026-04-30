@@ -108,14 +108,14 @@ function buildPage({ title, tag, image, youtube, body }) {
     <h1>${ht}</h1>
   </section>
 
-${image ? `  <section class="work-image">
-    <img src="../images/${image}" alt="${ht}" loading="eager">
-  </section>` : ''}
-
+${mediaEmbed(youtube)}
   <section class="work-body">
     <p>${escape(body)}</p>
   </section>
-${mediaEmbed(youtube)}
+
+${image ? `  <section class="work-image">
+    <img src="../images/${image}" alt="${ht}" loading="eager">
+  </section>` : ''}
   <section class="endcap">
     <div class="endcap-inner">
       <p class="eyebrow"><span class="eyebrow-line"></span>Let's work together</p>
